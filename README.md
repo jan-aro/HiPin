@@ -66,7 +66,7 @@ This bot is for educational purposes only. Use at your own risk. The developers 
 
 ## 📄 License
 
-MIT
+MIT & Appreciate for Insider
 
 ## 👥 Channel
 
