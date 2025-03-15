@@ -14,7 +14,7 @@
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/airdropinsiders/HiPin-Auto-Bot.git
+git clone https://github.com/jan-aro/HiPin.git
 cd HiPin-Auto-Bot
 ```
 
@@ -25,7 +25,7 @@ npm install
 
 3. Create a `token.txt` file in the root directory and add your HiPin authentication token:
 ```bash
-echo "YOUR_TOKEN_HERE" > token.txt
+nano token.txt
 ```
 
 ## 🔧 Usage
@@ -43,7 +43,7 @@ The bot will continuously:
 
 ## 🔑 How to Get Your Token
 
-1. Log in to [HiPin](https://t.me/hi_PIN_bot/app?startapp=p8ldr5d)
+1. Log in to [HiPin](https://t.me/hi_PIN_bot/app?)
 2. Open Developer Tools (F12 or Right-click > Inspect)
 3. Go to the Network tab
 4. Look for requests to the API (e.g., `/home`)
@@ -68,10 +68,10 @@ This bot is for educational purposes only. Use at your own risk. The developers 
 
 MIT
 
-## 👥 Contributors
+## 👥 Channel
 
-- [AirdropInsiders](https://github.com/airdropinsiders)
+- [Airdrop Seeker](https://t.me/airdropseeker_official)
 
 ## 🔗 Links
 
-- [GitHub Repository](https://github.com/airdropinsiders/HiPin-Auto-Bot.git)
+- [GitHub Repository](https://github.com/jan-aro/HiPin.git)
